@@ -112,93 +112,98 @@
 }
 
 .img-jumbo1{
-	margin-top: -4%;
-	margin-left: -3%;
-	width: 2%;
+	margin-top: -6%;
+	margin-left: -5%;
+	width: 4%;
 	border-radius: 50%;
 	z-index: 1;
 	position: absolute;
 }
 
 .img-jumbo2{
-	margin-top: -4%;
+	margin-top: -6%;
 	margin-left: 0%;
-	width: 2%;
+	width: 4%;
 	border-radius: 50%;
 	z-index: 1;
 	position: absolute;
 }
 
 .img-jumbo3{
-	margin-top: -4%;
-	margin-left: 3%;
-	width: 2%;
+	margin-top: -6%;
+	margin-left: 5%;
+	width: 4%;
 	border-radius: 50%;
 	z-index: 1;
 	position: absolute;
 }
 
 .img-jumbo4{
-	margin-top: -4%;
-	margin-left: 6%;
-	width: 2%;
+	margin-top: -6%;
+	margin-left: 10%;
+	width: 4%;
 	border-radius: 50%;
 	z-index: 1;
 	position: absolute;
 }
 .img-jumbo5{
-	margin-top: -4%;
-	margin-left: 9%;
-	width: 2%;
+	margin-top: -6%;
+	margin-left: 15%;
+	width: 4%;
 	border-radius: 50%;
 	z-index: 1;
 	position: absolute;
 }
 
 .img-jumbo6{
-	margin-top: -4%;
-	margin-left: 12%;
-	width: 2%;
+	margin-top: -6%;
+	margin-left: 20%;
+	width: 4%;
 	border-radius: 50%;
 	z-index: 1;
 	position: absolute;
 }
 
 .img-jumbo7{
-	margin-top: -4%;
-	margin-left: -6%;
-	width: 2%;
+	margin-top: -6%;
+	margin-left: -10%;
+	width: 4%;
 	border-radius: 50%;
 	z-index: 1;
 	position: absolute;
 }
 
 .img-jumbo8{
-	margin-top: -4%;
-	margin-left: -9%;
-	width: 2%;
+	margin-top: -6%;
+	margin-left: -15%;
+	width: 4%;
 	border-radius: 50%;
 	z-index: 1;
 	position: absolute;
 }
 
 .img-jumbo9{
-	margin-top: -4%;
-	margin-left: -12%;
-	width: 2%;
+	margin-top: -6%;
+	margin-left: -20%;
+	width: 4%;
 	border-radius: 50%;
 	z-index: 1;
 	position: absolute;
 }
 
 .img-jumbo10{
-	margin-top: -4%;
-	margin-left: -15%;
-	width: 2%;
+	margin-top: -6%;
+	margin-left: -25%;
+	width: 4%;
 	border-radius: 50%;
 	z-index: 1;
 	position: absolute;
 }
+
+.container-user{
+	padding-left: 4%;
+}
+
 .paragraf{
 	font-size: 13px;
 }
