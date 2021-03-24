@@ -74,12 +74,26 @@
     /*margin-left: 10%;*/
 }
 
+.btn-stl{
+	margin-top: 2%;
+	width: 100%;
+}
+
 .container-mnl{
 	margin-left: 3%;
 }
 
 .container-mid{
 	width: 70%;
+}
+
+.jumbotron-footer{
+	/*margin-bottom: -20px;*/
+	background-color: #bce7e4;	
+	padding: 2% 5% 0px 17%;
+	margin-bottom: -18px;
+	width: 110%;
+	margin-left: -2%;
 }
 
 .paragraf{
