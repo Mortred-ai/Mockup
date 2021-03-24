@@ -1,6 +1,5 @@
 .jumbotron-head {
 	color: white;
-    position: relative;
     background: #000 url("../Asset/bg-banner.png") center center;
     margin-top: 0%;
     padding-top: 10%;
@@ -12,8 +11,13 @@
 
 .box-trans{
 	position: relative;
+	width: 100%;
+	height: 200%;
+	margin-top: -20%;
+	opacity: 0.6;
 	z-index: 1;
-	background-color: red;
+	padding-top: 23%;
+	background-color: black;
 }
 
 .box-mid{
