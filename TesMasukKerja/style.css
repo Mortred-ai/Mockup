@@ -1,3 +1,13 @@
+.nav-link:hover::after{
+	content: '';
+	display: block;
+	border-bottom: 3px solid #0B63DC; 
+	width: 50%;
+	margin: auto;
+	padding-bottom: 5px;
+	margin-bottom: -8px;
+}
+
 .jumbotron-head {
 	color: white;
     background: #000 url("../Asset/bg-banner.png") center center;
@@ -94,6 +104,11 @@
 	margin-bottom: -18px;
 	width: 110%;
 	margin-left: -2%;
+}
+
+.outline1{
+	width: 8%;
+	background-color: white;
 }
 
 .img-jumbo1{
